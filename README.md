@@ -3,3 +3,11 @@
 - [x] ./run training_ham.txt training_spam.txt testing_ham.txt testing_spam.txt 2
 > where “2” is k, the integer that you will use for Laplace smoothing.
 
+<details><summary>Output format</summary>
+  <p> 
+    specificity:sensitivity:accuracy
+  </p>
+</details>
+
+
+
